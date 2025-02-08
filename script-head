@@ -1,0 +1,7 @@
+<style>
+
+	.load_grid{
+  	display: grid;
+  }
+
+</style>
